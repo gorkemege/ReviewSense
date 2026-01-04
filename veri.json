@@ -1,0 +1,43 @@
+{
+  "page": 0,
+  "size": 20,
+  "totalElements": 150,
+  "content": [
+    {
+      "userFullName": "Ahmet Y.",
+      "comment": "Ürün fotoğraftaki gibi değil, kumaşı çok parlak ve naylonumsu. Yazın yakar.",
+      "rate": 2,
+      "commentDateISO": "2025-10-12T14:30:00"
+    },
+    {
+      "userFullName": "Mehmet K.",
+      "comment": "Kalıplar aşırı dar arkadaşlar. Normalde L giyiyorum ama XL aldım o bile düğmesi kapanmadı. İade.",
+      "rate": 1,
+      "commentDateISO": "2025-10-11T09:15:00"
+    },
+    {
+      "userFullName": "Selin B.",
+      "comment": "Eşime aldım, duruşu fena değil ama dikiş yerlerinden ipler sarkıyor. Fiyatına göre idare eder.",
+      "rate": 3,
+      "commentDateISO": "2025-10-10T18:45:00"
+    },
+    {
+      "userFullName": "Caner T.",
+      "comment": "Tam bir fiyat performans ürünü. Günlük giymek için ideal, çok şey beklemeyin.",
+      "rate": 5,
+      "commentDateISO": "2025-10-09T11:20:00"
+    },
+    {
+      "userFullName": "Veli D.",
+      "comment": "Paçaları çok kısa geldi. Slim fit tamam ama bu resmen tayt gibi yapışıyor.",
+      "rate": 2,
+      "commentDateISO": "2025-10-08T16:00:00"
+    },
+    {
+      "userFullName": "Gizem A.",
+      "comment": "Rengi soluk geldi. Kargo hızlıydı ama ürün kalitesiz.",
+      "rate": 2,
+      "commentDateISO": "2025-10-07T10:10:00"
+    }
+  ]
+}
