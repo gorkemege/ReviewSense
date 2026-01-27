@@ -1,6 +1,7 @@
 # 🛍️ ReviewSense: AI-Powered E-Commerce Assistant
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://review-sense.streamlit.app)
+![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -43,7 +44,7 @@ Clone the repository and run the application on your local machine.
 
 ### 1. Clone the Repo
 
-git clone [https://github.com/YOUR_USERNAME/ReviewSense.git](https://github.com/YOUR_USERNAME/ReviewSense.git)
+git clone [https://github.com/gorkemege/ReviewSense.git](https://github.com/gorkemege/ReviewSense.git)
 cd ReviewSense
 
 ### 2. Install Dependencies
